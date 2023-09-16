@@ -4,8 +4,10 @@
     --clr-main: #0a4637;
     --clr-white: #ffffff;
     --clr-gray: #dedee4;
-    --clr-red: #ee3131;
+    --clr-red: #e44545;
     --clr-main-light: #a0d4c3;
+    --clr-gradient-agregarProducto: #1a4238;
+    --clr-gradient-eliminarProducto: #9e1010;
 
 }
 
@@ -49,7 +51,7 @@ aside {
 
 .logo {
     font-weight: 400;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
 }
 
 .menu {
@@ -68,7 +70,7 @@ aside {
     gap: 1rem;
     font-weight: 600;
     padding: 1rem;
-    font-size: .85rem;
+    font-size: 1rem;
     width: 100%;
 }
 
